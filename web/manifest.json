@@ -1,6 +1,6 @@
 {
-    "name": "wptoflutter",
-    "short_name": "wptoflutter",
+    "name": "wordpress_task",
+    "short_name": "wordpress_task",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
