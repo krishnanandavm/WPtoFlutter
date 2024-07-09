@@ -1,4 +1,4 @@
-name: wordpress_task
+name: wptoflutter
 description: A sample Flutter application.
 version: 1.0.0
 
@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.2.1 
+ http: ^0.13.4 
   flutter_html_view: ^0.5.12 
   cupertino_icons: ^1.0.2
 
